@@ -1,3 +1,5 @@
 git data model is based on snapshots, not deltas.
 This makes it different than most other SCM's.
 It looks like objects are binary now.
+
+Git uses XDelta to store deltas of files.
