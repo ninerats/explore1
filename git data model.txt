@@ -1,0 +1,1 @@
+git data model is based on snapshots, not deltas.
