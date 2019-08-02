@@ -3,3 +3,5 @@ This makes it different than most other SCM's.
 It looks like objects are binary now.
 
 Git uses XDelta to store deltas of files.
+
+remote head info is stored in remotes/ 
