@@ -6,4 +6,4 @@ Git uses XDelta to store deltas of files.
 
 remote head info is stored in remotes/ 
 
-topical change
+topical change (edited)
