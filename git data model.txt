@@ -8,10 +8,8 @@ remote head info is stored in remotes/
 
 topical change (edited)
 
-<<<<<<< HEAD
 topic2 (edit)
-=======
+
 added topic3
 
 added topic4
->>>>>>> a6c2bed0300f07218bcf8419f03d1342a10ad642
