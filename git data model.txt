@@ -8,4 +8,4 @@ remote head info is stored in remotes/
 
 topical change (edited)
 
-topic2
+topic2 (edit)
