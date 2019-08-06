@@ -9,3 +9,5 @@ remote head info is stored in remotes/
 topical change (edited)
 
 added topic3
+
+added topic4
